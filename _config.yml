@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BelVis - From Data To Insight
+title: BelVis
+tagline: From Data To Insight
 email: jan.aerts@belvis.io
 description: >- # this means to ignore newlines until "baseurl:"
   Delivering consultancy on the topics of data governance, data management, 
   data visualisation, and visual analytics across domains. Specific experience
   in life sciences.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.belvis.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jandot
 github_username: jandot
 
@@ -30,6 +31,7 @@ markdown: kramdown
 # remote_theme: volny/creative-theme-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
