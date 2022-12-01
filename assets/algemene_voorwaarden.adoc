@@ -1,0 +1,112 @@
+= Algemene voorwaarden BelVis Consulting
+:author: BelVis Consulting
+:revnumber: v20221201
+:sectnums:
+
+ifdef::backend-pdf[]
+{author} - Version {revnumber}
+endif::[]
+
+== Toepassing algemene voorwaarden
+1.1 Deze algemene voorwaarden gelden op alle aanbiedingen, producten en diensten, en op alle overeenkomsten met BelVis Consulting, ook al staan er strijdige bepalingen vermeld op documenten van de klant. Door het plaatsen van een bestelling aanvaardt de klant de algemene voorwaarden van BelVis Consulting. Tenzij uitdrukkelijk overeengekomen wordt de toepasselijkheid van eventuele inkoop- of andere voorwaarden van de klant uitdrukkelijk van de hand gewezen.
+
+1.2. Indien er wijzigingen aangebracht worden, treden die in dertig dagen na bekendmaking ervan op de website van BelVis Consulting (www.belvis.io) en/of aan de klant zelf. Indien een wijziging redelijkerwijze niet aanvaardbaar is, is de klant gerechtigd de overeenkomst te beëindigen – de overeenkomst neemt dan een einde op de dertigste dag na verzending van de kennisgeving van de wens tot beëindiging door de klant.
+
+== Aanbiedingen en offertes - orderbevestiging
+2.1. Alle aanbiedingen en offertes van BelVis Consulting zijn vrijblijvend tot op het ogenblik van de aanvaarding door de klant. Alle aanbiedingen en offertes van BelVis Consulting blijven geldig tot dertig dagen na datum van opstelling tenzij een specifieke vervaldatum is vermeld op de offerte; daarna hebben zij louter een informatieve waarde. Alle prijzen zijn steeds exclusief BTW (tenzij anders vermeld).
+
+2.2. De overeenkomst komt pas tot stand wanneer de klant de offerte ongewijzigd binnen de vervaltermijn voor akkoord ondertekent en terugzendt naar BelVis Consulting. Elke bestelling of orderbevestiging door de klant, verbindt de klant en BelVis Consulting aan de overeenkomst. De overeenkomst vervangt alle eerder afgesloten mondelinge en/of schriftelijke akkoorden.
+
+2.3. De overeenkomst dient een duidelijke projectbeschrijving te bevatten en deze wordt aanvaard bij het ondertekenen van de overeenkomst. Zie Artikel 4. Meerwerk, wijzigingen en aanvullingen op de werkzaamheden.
+
+== Annulatie van de bestelling
+3.1. De annulatie van een bestelling door de klant is mogelijk mits betaling van een schadevergoeding van 20% van de overeengekomen prijs, met een minimum van 250 euro en zolang de werkzaamheden door BelVis Consulting nog niet zijn aangevat.
+
+3.2. Wanneer BelVis Consulting, wegens overmacht, in de onmogelijkheid verkeert om de overeenkomst uit te voeren, zelfs wanneer de overmacht niet tot blijvende en/of volstrekte onmogelijkheid tot uitvoering leidt, heeft BelVis Consulting het recht om het contract te annuleren door ondertekende schriftelijke mededeling aan de klant met de reden die de uitvoering van het contract verhindert. De klant heeft in dat geval geen recht op schadevergoeding.
+
+== Meerwerk, wijzigingen en aanvullingen op de werkzaamheden
+4.1. Indien er met de opdrachtgever een vaste prijs overeengekomen is, dan zal deze vaste prijs slechts betrekking hebben op de in de overeenkomst beschreven werkzaamheden en diensten van BelVis Consulting. De klant aanvaardt dan ook bij ondertekening van de overeenkomst de daarin beschreven werkzaamheden. Eventuele en alle wijzigingen/afwijkingen/aanvullingen op de overeengekomen werkzaamheden tijdens en/of na het traject worden, in regie uitgevoerd aan het op dat ogenblik geldende uurtarief, tenzij anders afgesproken.
+
+Volgende omstandigheden zijn (niet-beperkende) voorbeelden die aanleiding geven tot meerwerk:
+
+- Uitbreiding/wijziging/afwijking van eisen en wensen aan de opdracht, nadat deze door opdrachtgever is goedgekeurd.
+- Eisen, wensen, randvoorwaarden of verwachtingen van opdrachtgever die ten tijde van het aangaan van de overeenkomst niet, of niet in volle omvang, of onvoldoende duidelijk aan BelVis Consulting kenbaar zijn gemaakt.
+- Gebreken en tekortkomingen in producten of diensten van derden, die door BelVis Consulting in redelijkheid niet waren te voorzien dan wel waarop BelVis Consulting weinig of geen invloed kan uitoefenen.
+- Tekortschietende medewerking van opdrachtgever bij de uitvoering van de overeenkomst.
+
+== Medewerking van de klant en oplevering
+5.1. De klant is ertoe gehouden om tijdig alle informatie en stukken, met inbegrip van deze waarvan de klant slechts kennis heeft tijdens de duur van de overeenkomst, te overhandigen die voor de uitvoering van de overeenkomst nodig zijn. De klant staat in voor de juistheid en volledigheid van de door hem verstrekte informatie en BelVis Consulting kan op geen enkele wijze enige aansprakelijkheid hebben voor eventuele schade ingevolge foutieve of onvolledige informatie meegedeeld door de klant.
+
+5.2. De datum van oplevering en meegedeelde termijnen zijn slechts informatief en worden slechts als aanwijzing opgegeven en binden BelVis Consulting niet. Overschrijding van de datum van oplevering en de termijnen geeft de klant geen recht op schadevergoeding of prijsvermindering, noch op ontbinding van de overeenkomst.
+
+5.3. Indien de partijen uitdrukkelijk een bindende leveringstermijn zijn overeengekomen, kan deze termijn verlengd worden indien de klant in gebreke blijft om tijdig gevraagde en benodigde informatie, documenten, originelen of beelden over te maken.
+
+== Risico
+6.1. Alle goederen die toebehoren aan de klant die zich inzake de lopende overeenkomst bij BelVis Consulting bevinden, worden er bewaard op risico van de klant.
+
+== Betalingsmodaliteiten
+7.1. Tenzij anders overeengekomen of vermeld op de factuur, zijn de facturen betaalbaar op het rekeningnummer van BelVis Consulting, ten laatste dertig dagen na verzending van de factuur. Betwistingen dienen binnen de zeven werkdagen na de verzending van de factuur per aangetekend schrijven aan BelVis Consulting kenbaar gemaakt te worden. Een betwisting kan in geen geval een uitstel of schorsing van betaling verantwoorden.
+
+7.2. Indien de klant niet overgaat tot betaling binnen vijf werkdagen na ontvangst van een aanmaning hiertoe door BelVis Consulting, is de klant aan BelVis Consulting een nalatigheidsintrest verschuldigd aan de intrestvoet bepaald in artikel 5 van de Wet van 02/08/2002 ter Bestrijding van de Betalingsachterstand bij Handelstransacties. Er wordt ook een forfaitaire schadevergoeding in rekening gebracht van 10% van het factuurbedrag met een minimum van 125 euro. De verschuldigde intrest wordt berekend vanaf de datum van aanmaning tot aan de volledige betaling. Bovendien behoudt BelVis Consulting zich het recht voor om de verdere uitvoering van haar verbintenissen op te schorten totdat de klant de vervallen facturen heeft betaald. Elke vertraging in de betaling door de klant maakt alle verschuldigde sommen ineens opeisbaar. De klant mag in dat geval de door BelVis Consulting opgeleverde documenten of adviesverstrekking niet gebruiken.
+
+7.3. Totdat de klant de volledige som van het contract betaald heeft, behoudt BelVis Consulting het volledige (intellectuele) eigendomsrecht op de afgeleverde producten of diensten, ook wanneer deze producten of diensten in onvolledige vorm werden overgemaakt. Alle risico’s zijn evenwel ten laste van de klant. De klant verbindt er zich toe om deze verkoopsvoorwaarden te tonen aan ieder openbaar ambtenaar die op de nog niet volledig betaalde producten en diensten ten voordele van derden beslag zou komen leggen.
+
+7.4. Projecten, producten en diensten die in pauze zijn gezet door de klant geven geen aanleiding tot schorsing van betaling.
+
+7.5. Bij niet-betaling van de factuur binnen de voorziene termijn verklaart de klant expliciet dat BelVis Consulting gerechtigd is de overeenkomst met onmiddellijke ingang te beëindigen en/of de toegang tot de diensten geheel of gedeeltelijk en al dan niet tijdelijk te blokkeren. Dit zonder dat de klant aanspraak kan maken op terugbetaling van vooruitbetaalde vergoedingen of enigerlei schadevergoeding. In dit geval zal BelVis Consulting de klant hiervan op de hoogte stellen. Verder is BelVis Consulting gerechtigd de overeenkomst zonder nadere ingebrekestelling en van rechtswege met onmiddellijke ingang te beëindigen in het geval de klant in staat van faillissement is verklaard, de klant een gerechtelijk akkoord heeft gevraagd of aanvaard, of meer algemeen de klant in staking van betaling verkeert.
+
+== Aansprakelijkheid
+8.1. BelVis Consulting verbindt zich ertoe alle te verstrekken diensten met zorg uit te voeren. Alle prestaties van BelVis Consulting zijn middelenverbintenissen. BelVis Consulting is niet aansprakelijk voor fouten in de uitvoering te wijten aan onvoldoende of verkeerde input door de klant. Na oplevering van een product of dienst voorzien wij in een transparante overdracht. Rekentools of software die door BelVis Consulting is ontwikkeld wordt nooit met derden gedeeld, enkel de conclusies die eruit voort kunnen komen in functie van de afbakening van de overeengekomen opdracht.
+
+8.2. BelVis Consulting kan niet aansprakelijk gesteld worden voor enige fout (zelfs een grove fout) van haar of haar aangestelden, behoudens ingeval van bedrog. BelVis Consulting zal, wat ook de oorzaak, de vorm of het voorwerp is van de vordering waarbij de aansprakelijkheid wordt ingeroepen, in geen geval aansprakelijk kunnen worden gesteld voor enige gevolgschade zoals bijvoorbeeld verlies van verwachte winst, daling van omzet, verhoogde operationele kosten, verlies van cliënteel, welke de klant of derden zouden lijden ten gevolge van enige fout of nalatigheid van BelVis Consulting of een aangestelde.
+
+8.3. De aansprakelijkheid van BelVis Consulting met betrekking tot aan de klant geleverde diensten is in elk geval beperkt tot ofwel de terugbetaling van de door de klant betaalde prijs, ofwel het opnieuw uitvoeren van de diensten, naar keuze van BelVis Consulting. De totale aansprakelijkheid van BelVis Consulting, zal nooit meer bedragen dan de prijs die door de klant aan BelVis Consulting werd betaald voor de diensten die aanleiding gaven tot het schadegeval. De klant vrijwaart BelVis Consulting voor elke vordering van derden, ook na de beëindiging van de overeenkomst.
+
+8.4. Wat de diensten afkomstig van derde leveranciers betreft, aanvaardt BelVis Consulting geen enkele aansprakelijkheid boven of anders dan de aansprakelijkheid die de derde leveranciers bereid zijn te aanvaarden voor hun producten of diensten.
+
+8.5. Onverminderd artikel 7, geldt inzake software het volgende: de feilloze werking van een computerconfiguratie (het geheel van hardware en software) kan nooit volledig worden gegarandeerd, dit zowel wegens externe factoren (stroomuitval of –storing, blikseminslag,…) als wegens factoren eigen aan de computerconfiguratie (defecten, netwerkstoringen, onontdekte fouten in systeem- en toepassingssoftware,…), zodat o.m. onverwacht verlies van (zelfs alle) programma’s en/of gegevens kan optreden. De klant verbindt zich ertoe aangepaste mechanismen voor de beveiliging, de bewaring en de herstelling van gegevens te installeren.
+
+8.6. BelVis Consulting kan niet verantwoordelijk gesteld worden voor de onjuistheden of tekortkomingen in de gegevens zoals die vermeld staan in de door BelVis Consulting opgeleverde producten of diensten. BelVis Consulting is niet verantwoordelijk t.a.v. gebruikers of derden voor mogelijk geleden directe, indirecte, incidentele schade, winstderving of voor eender welke schade veroorzaakt door haar nalatigheid of vergetelheid in het verschaffen, compileren, monteren, schrijven en interpreteren van informatie.
+
+== Intellectuele eigendomsrechten
+9.1. Onder Intellectuele Eigendomsrechten wordt verstaan: alle intellectuele, industriële en andere eigendomsrechten (ongeacht of deze geregistreerd zijn of niet), met inbegrip van, maar niet beperkt tot, auteursrechten, naburige rechten, merken, handelsnamen, logo’s, tekeningen, (reken)modellen en -tools, octrooien, aanvragen tot octrooien, know-how, alsmede rechten op databanken, computerprogramma’s en halfgeleiders.
+
+9.2. De klant zal de Intellectuele Eigendomsrechten van BelVis Consulting te allen tijde respecteren en redelijke inspanningen leveren om die rechten te beschermen. De klant zal BelVis Consulting onmiddellijk in kennis stellen van iedere inbreuk door derden op de Intellectuele Eigendomsrechten van BelVis Consulting waarvan hij kennis neemt.
+
+== Beëindiging van de overeenkomst
+10.1. Indien de klant zich schuldig maakt aan een zware contractuele wanprestatie die de klant niet herstelt binnen de vijf dagen na ontvangst van een ter post aangetekende ingebrekestelling, heeft BelVis Consulting het recht om ofwel de overeenkomst te schorsen totdat de klant zijn verbintenissen is nagekomen, ofwel de overeenkomst met onmiddellijke ingang te beëindigen. De niet-betaling van een of meerdere facturen op hun vervaldag, zal altijd worden beschouwd als een zware contractuele wanprestatie.
+
+10.2. Bij het vroegtijdig beëindiging van de overeenkomst zal de klant alle door BelVis Consulting verleende diensten betalen, alsook de kosten die BelVis Consulting moet maken als gevolg van deze vroegtijdige beëindiging, vermeerderd met een forfaitaire schadevergoeding van 10% van het bedrag dat BelVis Consulting nog had kunnen factureren aan de klant indien de overeenkomst volledig zou zijn uitgevoerd. Het eventueel betaald voorschot blijft hoe dan ook verworven voor BelVis Consulting. Bovendien behoudt BelVis Consulting het recht om een hogere schadevergoeding te vorderen indien zij bewijst dat haar werkelijk geleden schade groter is dan de forfaitaire schade zoals hierboven bepaald.
+
+10.3. Elke partij aanvaardt om aan de andere partij een redelijke termijn toe te kennen om haar eventuele tekortkomingen te verhelpen, en om steeds eerst te zoeken naar een minnelijke regeling.
+
+== Overmacht
+11.1. Overmachtsituaties zoals bijvoorbeeld stakingen, publieke onrust, administratieve maatregelen en andere onverwachte gebeurtenissen waarover BelVis Consulting geen controle heeft, bevrijden BelVis Consulting, voor de duur van de hinder en voor hun draagwijdte, van haar verbintenissen, zonder recht op enige prijsvermindering of schadevergoeding voor de klant.
+
+== Nietigheid
+12.1. Indien enige bepaling van deze algemene voorwaarden nietig is, zullen de overige bepalingen volledig van kracht blijven en zullen BelVis Consulting en de klant de nietige bepaling vervangen door een andere bepaling die het doel en de strekking van de nietige bepaling zoveel mogelijk benadert.
+
+== Toepasselijk recht en bevoegde rechtbank
+13.1. Het Belgisch recht is van toepassing op de overeenkomsten van BelVis Consulting. Elk geschil met betrekking tot het sluiten, de geldigheid, de uitvoering en/of de beëindiging van deze overeenkomst zal worden beslecht door de bevoegde rechtbank te Gent.
+
+== Verwerking persoonsgegevens
+14.1. Voor zover de klant persoonsgegevens verwerkt op de server of e-mail marketing accounts van BelVis Consulting, heeft BelVis Consulting de hoedanigheid van verwerker. De klant heeft de hoedanigheid van verantwoordelijke voor de verwerking van persoonsgegevens in de zin van de Wet Verwerking Persoonsgegevens. De klant verklaart de verplichtingen die rusten op de verantwoordelijke voor de verwerking, opgenomen in deze wet, integraal na te leven.
+
+14.2. In het kader van de diensten voor de klant, verwerkt BelVis Consulting persoonsgegevens van de door de klant opgegeven contactpersonen. De contactgegevens van deze personen worden verwerkt voor het doeleinde klantenbeheer, i.e. om met de klant in contact te treden m.b.t. de diensten. De contactpersonen hebben een recht van toegang en verbetering m.b.t. hun gegevens.
+
+== Geheimhoudingsplicht
+15.1. Partijen verbinden zich ertoe de commerciële en technische informatie en de bedrijfsgeheimen die zij vernemen van de andere partij, zelfs na de beëindiging van de overeenkomst, geheim te houden en enkel te gebruiken voor de uitvoering van de overeenkomst.
+
+== Referentie
+16.1. De klant gaat ermee akkoord dat het door BelVis Consulting voor de klant uitgevoerde werk wordt opgenomen in het (online) referentie portfolio van BelVis Consulting, tenzij uitdrukkelijk en schriftelijk anders overeengekomen.
+
+== Gebruikersvoorwaarden
+17.1. De klant zal zich ervan weerhouden de diensten te gebruiken of doen gebruiken voor onrechtmatige handelingen, het plegen van strafbare feiten en/of voor handelingen die in strijd zijn met deze gebruikersvoorwaarden of de algemene voorwaarden.
+
+17.2. De klant is zonder voorafgaande schriftelijke toestemming van BelVis Consulting niet gerechtigd enige rechten en plichten die voortvloeien uit deze of een andere overeenkomst over te dragen aan derden.
+
+17.3. De klant is verantwoordelijk en aansprakelijk voor ieder gebruik van de geleverde diensten, onder meer de vertrouwelijkheid en het gebruik van zijn login gegevens, toegangscodes, e-mailadressen, etc.
+
+17.4. Het BelVis Consulting netwerk, gehuurde infrastructuur en de voorziene diensten en producten mogen in geen enkel geval gebruikt worden voor het opslaan of verspreiden van illegale materialen en/of software. Als BelVis Consulting dergelijke praktijken vaststelt, zal het overgaan tot een onmiddellijke stopzetting van de dienstverlening in kwestie en de klant hiervan schriftelijk op de hoogte stellen. Tevens zullen de bevoegde instanties onmiddellijk op de hoogte gebracht worden.
+
+17.5. Het verspreiden, beschikbaar stellen en aanbieden van auteursrechtelijk beschermd materiaal zoals bijvoorbeeld videobeelden, muziek, teksten, beeldmateriaal, etc. zonder voorafgaande toestemming van de auteur via de infrastructuur van BelVis Consulting, wordt eveneens beschouwd als een illegale activiteit. In geval de klant materiaal op de door BelVis Consulting ontwikkelde software/applicatie plaatst of aan BelVis Consulting aanlevert met het doel dit op de software/applicatie te plaatsen of erin te verwerken, garandeert hij over alle rechten, inclusief reproductierechten, te beschikken van het materiaal (zoals o.a. teksten, vertalingen, documenten, foto's, video's, grafische elementen, etc.).
