@@ -1,0 +1,112 @@
+= Terms and Conditions BelVis Consulting
+:author: BelVis Consulting
+:revnumber: v20221201
+:sectnums:
+
+ifdef::backend-pdf[]
+{author} - Version {revnumber}
+endif::[]
+
+== Applicability terms and conditions
+1.1 These terms and conditions apply to all offers, products and services, and to all agreements with BelVis Consulting, even if there are conflicting provisions mentioned on client documents. By placing an order, the client accepts the terms and conditions of BelVis Consulting. Unless explicitely agreed, the applicability of eventual other conditions by the client are expressly rejected.
+
+1.2. If changes are made, these will become effective thirty days after announcement on the BelVis Consulting website (www.belvis.io) and/or to the client itself. If the change is reasonably not acceptable, the client is authorised to end the agreement - the agreement then ends on the thirtieth day after the client sent the notification of the desire to end that agreement.
+
+== Offers and estimates - order confirmation
+2.1. All offers and estimates of BelVis Consulting are without obligation until acceptance by the client. All offers and estimates of BelVis Consulting are valid until thirty days after the date of drafting unless a specific expiry date is mentioned on the offer or estimate; after that point they are only of informative value. Alle prices are exclusive of VAT, unless mentioned otherwise.
+
+2.2. The agreement commences when the client signs the unchanged estimate before the expiry data and sends it back to BelVis Consulting. Each order joins the client and BelVis Consulting into an agreement. The agreement replaces all earlier oral and/or written agreements.
+
+2.3. The agreement should contain a clear project description and is accepted by signing the agreement. See Article 4. Additional work, modifications and additions to the work.
+
+== Cancellation of the order
+3.1. The cancellation of the order by the client is possible on condition of the payment of a compensation of 20% of the agreed price, with a minimum of 250 euro and as long as BelVis Consulting has not started activities.
+
+3.2. If BelVis Consulting, due to force majeure, is in the impossibility to carry out the agreement, even if the force majeure does not lead to lasting and/or absolute impossibility of execution, BelVis Consulting has the right to cancel the contract by written and signed announcement to the client with the reason that prevents the execution of the contract. In this case, the client is not entitled to compensation.
+
+== Additional work, modifications and additions to the work
+4.1. If a price is agreed with the client, this fixed price will only be applicable to the work and services described in the agreement. Therefore, by signing the agreement, the client accepts the work and services describes therein. Eventual and all changes/deviations/additions to the agreed work and services during and/or after the project, are executed at the hourly rate applicable at that moment, unless agreed otherwise.
+
+The following conditions are a (non-exclusive) list of examples that lead to additional work:
+
+- Extension/change/deviation of the demands and wishes to the order, after that order has been approved by the client.
+- Demands, wishes, conditions or expectations that at the start of the agreement were not or not to their full extent made clear to BelVis Consulting.
+- Flaws and shortcomings in third-party products or services, that were not within reason foreseen by BelVis Consulting, or onto which BelVis Consulting has little or no influence.
+- Lack of cooperation by the client for the execution of the agreement.
+
+== Collaboration by the client and delivery
+5.1. The client is obliged to hand over all information and documents that are necessary for the implementation of the agreement in a timely manner, including those of which the client only has knowledge during the term of the agreement. The client vouches for the correctness and integrality of the information provided by them and BelVis Consulting can in no way be held responsible or liable for eventual damage due to wrong or incomplete information shared by the client.
+
+5.2. The date of delivery and communicated terms are only informative. They are only given as an indication and do not bind BelVis Consulting. Exceeding the date of delivery and the terms does not entitle the client to compensation or price reduction, nor termination of the contract.
+
+5.3. If the parties have explicitly agreed to a binding term of delivery, this term can be extended if the client defaults to deliver requested and necessary information, documents, originals or images in a timely manner.
+
+== Risks
+6.1. All goods that belong to the client that are located with BelVis Consulting regarding the current agreement, are stored at the client's risk.
+
+== Payment terms
+7.1. Unless otherwise agreed or mentioned on the invoice, the invoices are to be paid on the bank account number of BelVis Consulting, at the latest thirty days after the invoice send date. Disputes are to be expressed to BelVis Consulting within seven working days after the invoice send date, by registered letter. A dispute can in no case justify a delay or suspension of payment.
+
+7.2. If the client does not proceed to payment within five working days after receipt of a reminder to this effect by BelVis Consulting, the client owes BelVis Consulting default interest at the interest rate mentioned in Article 5 of the Belgian Law of 02/08/2002 to Combat Late Payment in Commercial Transactions ("Wet ter Bestrijding van de Betalingsachterstand bij Handelstransacties"). A fixed compensation of 10% of the invoice amount will also be charged with a minimum of 125 euro. The interest due is calculated from the date of the reminder until full payment. In addition, BelVis Consulting reserves the right to suspend the further performance of its obligations until the client has paid the overdue invoices. Any delay in payment by the client makes all amounts due immediately payable. In that case, the client may not use the documents or advice provided by BelVis Consulting.
+
+7.3. Until the client has paid the full sum of the contract, BelVis Consulting keeps the full (intellectual) property on the delivered products or services, even when these products or services were delivered in incomplete form. All risks are borne by the client. The client commits themselves to show these terms and conditions of sale to any public official who would seize the not yet fully paid products and services for the benefit of third parties.
+
+7.4. Project, products and services that are paused by the client do not give rise to suspension of payment.
+
+7.5. In the event of non-payment of the invoice within the stipulated period, the client explicitly declares that BelVis Consulting is entitled to terminate the agreement with immediate effect and/or to block access to services completely or partially and permanently or temporarily. This without the client being able to claim reimbursement of prepaid fees or any compensation. In this case, BelVis Consulting will inform the client. Furthermore, BelVis Consulting is entitled to terminate the agreement without further notice of default and by operation of law with immediate effect in the event that the client has been declared bankrupt, the client has requested or accepted a judicial agreement, or - more generally - the client is on cessation of payment.
+
+== Liability
+8.1. BelVis Consulting undertakes to perform all services to be provided with due care. All BelVis Consulting performances are commitments of means. BelVis Consulting is not liable for mistakes in the execution due to insufficient or incorrect input by the client. After delivery of a product or service, we provide a transparent transfer. Calculation tools or software developed by BelVis Consulting are never shared with third parties, only the conclusions that may arise from them in function of the scope of the agreed assignment.
+
+8.2. BelVis Consulting cannot be held liable for any error (even a gross error) on the part of it or its appointees, except in the case of fraud. BelVis Consulting shall, whatever the cause, form or object of the claim for which liability is invoked, under no circumstances be held liable for any consequential damage such as, for example, loss of expected profit, drop in turnover, increased operational costs, loss of clients, which the client or third parties would suffer as a result of any error or negligence on the part of BelVis Consulting or an appointee.
+
+8.3. BelVis Consulting's liability with regard to services provided to the client is in any event limited to either the refund of the price paid by the client or the re-performance of the services, at the option of BelVis Consulting. The total liability of BelVis Consulting will never exceed the price paid by the client to BelVis Consulting for the services that gave rise to the claim. The client indemnifies BelVis Consulting against any claim from third parties, even after the termination of the agreement.
+
+8.4. With regard to the services provided by third party suppliers, BelVis Consulting does not accept any liability in excess of or other than the liability that the third party suppliers are willing to accept for their products or services.
+
+8.5. The following applies with regard to software: the flawless operation of a computer configuration (the whole of hardware and software) can never be fully guaranteed, both due to external factors (power failure or malfunction, lightning strike, etc.) and due to factors specific to the computer configuration (defects, network failures, undiscovered errors in system and application software, etc), so that, among other things, unexpected loss of (even all) programs and/or data can occur. The client undertakes to install appropriate mechanisms for the protection, retention and recovery of data.
+
+8.6. BelVis Consulting cannot be held responsible for inaccuracies or shortcomings in the data as stated in the products or services delivered by BelVis Consulting. BelVis Consulting is not responsible to users or third parties for possible direct, indirect, incidental damage, loss of profit or for any damage caused by its negligence or omission in providing, compiling, editing, writing and interpreting information.
+
+== Intellectual property rights
+9.1. Intellectual Property Rights mean: all intellectual, industrial and other property rights (regardless of whether they are registered or not), including, but not limited to, copyrights, related rights, brands, trade names, logos, drawings, (calculation) models and tools, patents, patent applications, know-how, as well as rights to databases and computer programs.
+
+9.2. The client shall at all times respect the Intellectual Property Rights of BelVis Consulting and make reasonable efforts to protect those rights. The client shall immediately notify BelVis Consulting of any infringement by third parties of BelVis Consulting's Intellectual Property Rights of which it becomes aware.
+
+== Termination of the agreement
+10.1. If the client is guilty of a serious breach of contract that the client does not rectify within five days after receipt of a notice of default sent by registered mail, BelVis Consulting has the right to either suspend the agreement until the client has fulfilled its obligations, or to terminate the agreement with immediate effect. The non-payment of one or more invoices on their due date will always be regarded as a serious breach of contract.
+
+10.2. In the event of early termination of the agreement, the client will pay for all services provided by BelVis Consulting, as well as the costs that BelVis Consulting must incur as a result of this early termination, plus a fixed compensation of 10% of the amount that BelVis Consulting could still have invoiced to the client if the agreement had been fully executed. Any advance paid will in any case remain acquired for BelVis Consulting. In addition, BelVis Consulting reserves the right to claim a higher compensation if it proves that its actual damage is greater than the fixed damage as determined above.
+
+10.3. Each party accepts to grant the other party a reasonable period of time to remedy any shortcomings, and to always first look for an amicable settlement.
+
+== Force majeure
+11.1. Force majeure situations such as strikes, public unrest, administrative measures and other unexpected events over which BelVis Consulting has no control, release BelVis Consulting, for the duration of the nuisance and for their scope, from its obligations, without the right to any price reduction or compensation for the client.
+
+== Nullity
+12.1. If any provision of these general terms and conditions is invalid, the other provisions will remain in full force and BelVis Consulting and the client will replace the invalid provision with another provision that approaches the purpose and purport of the invalid provision as closely as possible.
+
+== Applicable law and competent court
+13.1. Belgian law applies to the agreements of BelVis Consulting. Any dispute regarding the conclusion, validity, implementation and/or termination of this agreement will be settled by the competent court in Leuven.
+
+== Processing of personal data
+14.1. Insofar as the client processes personal data on the server or e-mail marketing accounts of BelVis Consulting, BelVis Consulting has the capacity of processor. The client has the capacity of responsible for the processing of personal data within the meaning of the Personal Data Processing Act. The client declares to fully comply with the obligations resting on the person responsible for the processing, included in this law.
+
+14.2. In the context of the services for the customer, BelVis Consulting processes personal data of the contact persons specified by the customer. The contact details of these persons are processed for the purpose of customer management, i.e. to contact the customer regarding the services. The contact persons have a right of access and correction regarding their data.
+
+== Duty of confidentiality
+15.1. The parties undertake to keep the commercial and technical information and trade secrets they learn from the other party secret, even after the termination of the agreement, and to use them only for the implementation of the agreement.
+
+== Reference
+16.1. The client agrees that the work performed by BelVis Consulting for the client can be included in the (online) reference portfolio of BelVis Consulting, unless expressly agreed otherwise in writing.
+
+== Terms of use
+17.1. The customer will refrain from using the services or having them used for unlawful acts, committing criminal offenses and/or for acts that are contrary to these terms of use or the general terms and conditions.
+
+17.2. Without prior written permission from BelVis Consulting, the customer is not entitled to transfer any rights and obligations arising from this or any other agreement to third parties.
+
+17.3. The customer is responsible and liable for any use of the services provided, including the confidentiality and use of his login details, access codes, e-mail addresses, etc.
+
+17.4. The BelVis Consulting network, rented infrastructure and the provided services and products may under no circumstances be used to store or distribute illegal materials and/or software. If BelVis Consulting finds such practices, it will proceed to an immediate cessation of the service in question and inform the client in writing. The competent authorities will also be informed immediately.
+
+17.5. Distributing, making available and offering copyright-protected material such as video images, music, texts, images, etc. without the prior consent of the author via the infrastructure of BelVis Consulting, is also considered an illegal activity. In case the customer places material on the software/application developed by BelVis Consulting or provides it to BelVis Consulting for the purpose of placing or processing it on the software/application, he guarantees to have all rights, including reproduction rights, to the material (such as texts, translations, documents, photos, videos, graphic elements, etc.).
